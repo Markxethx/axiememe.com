@@ -137,6 +137,8 @@ div.cards {
 .cards {
     display: flex;
     padding-top: 100px;
+    margin-left:0;
+    margin-right: 0;
 }
 
 .card{
